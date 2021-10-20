@@ -1,4 +1,4 @@
-- 👋 Hola soy @isinicolle
+- 👋 Me tuve que crear otra cuenta para salir bien mamadora con el pro xD
 - 👀 Estudiante de Ingenieria en ciencias de la computacion. 
 - 🎇UNICAH
 
