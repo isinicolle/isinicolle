@@ -20,6 +20,7 @@ palabras
 
 <div align="center">Contacta conmigo: <br>
  &nbsp;<a href="https://www.linkedin.com/in/isis-zapata/"><img src="images/linkedin-box-fill.png"></a>&nbsp;<a href="mailto:<nowiki>isis.zapata.hn@gmail.com?subject="Hi"><img src="images/mail-fill.png"></a></div>
+<br>
 
 <p align="center"> 
   Eres el numero:  <br>
