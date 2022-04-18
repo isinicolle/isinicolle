@@ -9,9 +9,8 @@
 #### Honduras 🗺
 <!--### <div><p align="center"><a href="https://isinicolle.github.io/Portfolio/">Check my Portfolio page</a></p></div>-->
 
-- 👩‍💻 Estudiante de Ingenieria en Ciencias de la Computación  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25">
-- 🙇‍♀️ 
-
+#### 👩‍💻 Estudiante de Ingenieria en Ciencias de la Computación  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25">
+______
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isinicolle&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
