@@ -1,6 +1,6 @@
 ## Holis 😁👋
 
-<div align="center"><img src="./images/Welcome"></div>
+<div align="center"><img src="./images/Welcome.gif"></div>
 
 <h1 align="center">Welcome to my GitHub page</h1>
 
