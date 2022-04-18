@@ -1,13 +1,13 @@
 ## Holis <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <div align="center"><img src="./images/Welcome.gif"></div>
-
+<img align="center" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"> 
 <h1 align="center">Bienvenid@ a mi perfil de GitHub</h1>
 
 #### Tegucigalpa, Honduras 🗺
 <!--### <div><p align="center"><a href="https://isinicolle.github.io/Portfolio/">Check my Portfolio page</a></p></div>-->
 
-- 👩‍💻 Estudiante de Ingenieria en Ciencias de la Computación <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- 👩‍💻 Estudiante de Ingenieria en Ciencias de la Computación 
 - 🙇‍♀️ 
 
 <br>
