@@ -17,8 +17,10 @@ palabras
 <br>
 
 <p align="center"> 
-  You are visitor number: <br>
+  Eres el numero:  <br>
   <img src="https://profile-counter.glitch.me/isinicolle/count.svg" />
+  <br>
+  En visitar mi perfil 😊
 </p>
 
 <div align="center">Contacta conmigo: <br>
