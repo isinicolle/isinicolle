@@ -2,7 +2,7 @@
 
 <div align="center"><img src="./images/Welcome.gif"></div>
 
-<h1 align="center">Welcome to my GitHub page</h1>
+<h1 align="center">Bienvenid@ a mi perfil de GitHub</h1>
 
 <!--### <div><p align="center"><a href="https://starsheriff2.github.io/Portfolio/">Check my Portfolio page</a></p></div>-->
 
