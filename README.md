@@ -20,11 +20,11 @@
 
 
 <p align="center"> 
-  Eres el numero:  <br>
+  Visitante numero:  <br>
   <img src="https://profile-counter.glitch.me/isinicolle/count.svg" />
   <br>
-  En visitar mi perfil 😊
+
 </p>
 
-<div align="center">Contacta conmigo: <br>
+<div align="center"> <strong>Contacta conmigo:</strong> <br>
  &nbsp;<a href="https://www.linkedin.com/in/isis-zapata/"><img src="images/linkedin-box-fill.png" width="20" height="20"></a>&nbsp;<a href="mailto:<nowiki>isis.zapata.hn@gmail.com?subject="Hi"><img src="images/mail-fill.png" width="20" height="20"></a></div>
