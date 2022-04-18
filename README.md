@@ -7,7 +7,7 @@
 <!--### <div><p align="center"><a href="https://isinicolle.github.io/Portfolio/">Check my Portfolio page</a></p></div>-->
 
 <div align="center">Contacta conmigo: <br>
- &nbsp;<a href="https://www.linkedin.com/in/isis-zapata/"><img src="images/linkedin-box-fill.png" width="100" height="100"></a>&nbsp;<a href="mailto:<nowiki>isis.zapata.hn@gmail.com?subject="Hi"><img src="images/mail-fill.png" width="100" height="100"></a></div>
+ &nbsp;<a href="https://www.linkedin.com/in/isis-zapata/"><img src="images/linkedin-box-fill.png" width="20" height="20"></a>&nbsp;<a href="mailto:<nowiki>isis.zapata.hn@gmail.com?subject="Hi"><img src="images/mail-fill.png" width="20" height="20"></a></div>
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isinicolle&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
