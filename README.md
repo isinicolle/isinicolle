@@ -11,11 +11,12 @@
 palabras
 
 
-[![Arturo's github stats](https://github-readme-stats.vercel.app/api?username=isinicolle&count_private=true&show_icons=true&theme=synthwave)](https://github.com/isinicolle/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isinicolle&layout=compact)](https://github.com/isinicolle/github-readme-stats)
-
 <br>
 
+[![Isis's github stats](https://github-readme-stats.vercel.app/api?username=isinicolle&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isinicolle&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
 
 
 <div align="center">Contacta conmigo: <br>
