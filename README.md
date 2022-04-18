@@ -10,7 +10,7 @@
  &nbsp;<a href="https://www.linkedin.com/in/isis-zapata/"><img src="images/linkedin-box-fill.png" width="20" height="20"></a>&nbsp;<a href="mailto:<nowiki>isis.zapata.hn@gmail.com?subject="Hi"><img src="images/mail-fill.png" width="20" height="20"></a></div>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isinicolle&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=isinicolle&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isinicolle&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
