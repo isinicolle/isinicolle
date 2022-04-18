@@ -13,6 +13,8 @@
 - 🙇‍♀️ 
 
 <br>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isinicolle&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -33,5 +35,5 @@
 
 <br>
 
-<div align="center"> <strong>Contacta conmigo <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"> :</strong> <br>
+<div align="center"> <strong>Contacta conmigo: </strong> <br>
  &nbsp;<a href="https://www.linkedin.com/in/isis-zapata/"><img src="images/linkedin-box-fill.png" width="20" height="20"></a>&nbsp;<a href="mailto:<nowiki>isis.zapata.hn@gmail.com?subject="Hola Isis Zapata"><img src="images/mail-fill.png" width="20" height="21"></a></div>
