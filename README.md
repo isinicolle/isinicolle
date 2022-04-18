@@ -11,18 +11,9 @@
 
 #### 👩‍💻 Estudiante de Ingenieria en Ciencias de la Computación  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25">
 ______
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isinicolle&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
-
-[![Isis's github stats](https://github-readme-stats.vercel.app/api?username=isinicolle&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
 
 
-
+______
 <p align="center"> 
   Visitante numero:  <br>
   <img src="https://profile-counter.glitch.me/isinicolle/count.svg" />
