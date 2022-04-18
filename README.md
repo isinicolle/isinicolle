@@ -6,6 +6,8 @@
 
 <!--### <div><p align="center"><a href="https://isinicolle.github.io/Portfolio/">Check my Portfolio page</a></p></div>-->
 
+- 👩‍💻 Estudiante de Ingenieria en Ciencias de la Computación
+- 🙇‍♀️ 
 
 <br>
 
