@@ -22,5 +22,5 @@ palabras
 </p>
 
 <div align="center">Let's connect and chat:<br>
- &nbsp;<a href="https://www.linkedin.com/"><img src="images/linkedin-box-fill.png"></a>&nbsp;<a href="mailto:<nowiki>isis.zapata.hn@gmail.com?subject="Hi"><img src="images/mail-fill.png"></a></div>
+ &nbsp;<a href="https://www.linkedin.com/in/isis-zapata/"><img src="images/linkedin-box-fill.png"></a>&nbsp;<a href="mailto:<nowiki>isis.zapata.hn@gmail.com?subject="Hi"><img src="images/mail-fill.png"></a></div>
 
