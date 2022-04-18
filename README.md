@@ -4,9 +4,7 @@
 
 <h1 align="center">Bienvenid@ a mi perfil de GitHub</h1>
 <br>
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"> 
-
-<br>
+ 
 
 #### Tegucigalpa, Honduras 🗺
 <!--### <div><p align="center"><a href="https://isinicolle.github.io/Portfolio/">Check my Portfolio page</a></p></div>-->
@@ -33,5 +31,7 @@
 
 </p>
 
+<br>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
 <div align="center"> <strong>Contacta conmigo:</strong> <br>
  &nbsp;<a href="https://www.linkedin.com/in/isis-zapata/"><img src="images/linkedin-box-fill.png" width="20" height="20"></a>&nbsp;<a href="mailto:<nowiki>isis.zapata.hn@gmail.com?subject="Hola Isis Zapata"><img src="images/mail-fill.png" width="20" height="21"></a></div>
