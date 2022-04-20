@@ -1,6 +1,6 @@
 ## Holis <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<div align="center"><img src="./images/Welcome.gif"></div>
+<div align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"></div>
 
 <h1 align="center">Bienvenid@ a mi perfil de GitHub</h1>
 <br>
