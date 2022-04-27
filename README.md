@@ -36,7 +36,12 @@ ______
 <div align="center"> <strong>Contacta conmigo: </strong> <br>
  &nbsp;<a href="https://www.linkedin.com/in/isis-zapata/"><img src="images/linkedin-box-fill.png" width="20" height="20"></a></div>
 <br>
-<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="isis-zapata" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://hn.linkedin.com/in/isis-zapata?trk=profile-badge">Isis Zapata</a></div>
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="isis-zapata" data-version="v1">
+ <a class="badge-base__link LI-simple-link" href="https://hn.linkedin.com/in/isis-zapata?trk=profile-badge">
+  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+  Isis Zapata
+ </a>
+</div>
 
 
               
