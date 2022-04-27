@@ -35,3 +35,5 @@ ______
 
 <div align="center"> <strong>Contacta conmigo: </strong> <br>
  &nbsp;<a href="https://www.linkedin.com/in/isis-zapata/"><img src="images/linkedin-box-fill.png" width="20" height="20"></a></div>
+ <div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="isis-zapata" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://hn.linkedin.com/in/isis-zapata?trk=profile-badge">Isis Zapata</a></div>
+              
