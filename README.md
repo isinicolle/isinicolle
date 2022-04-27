@@ -39,7 +39,7 @@ ______
 <div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="isis-zapata" data-version="v1">
  <a class="badge-base__link LI-simple-link" href="https://hn.linkedin.com/in/isis-zapata?trk=profile-badge">
 
-  Isis Zapata
+  By: Isis Zapata
  </a>
 </div>
 
