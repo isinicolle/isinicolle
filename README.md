@@ -17,7 +17,7 @@ ______
 <br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isinicolle&layout=compact&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isinicolle&count_private=true&layout=compact&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
