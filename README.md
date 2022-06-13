@@ -8,8 +8,6 @@
 <div><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200"></div>
 <h1>Bienvenid@ a mi perfil de GitHub</h1>
 
-<br>
- 
 #### Honduras 🗺
 
 #### 👩‍💻 Estudiante de Ingenieria en Ciencias de la Computación (95/100) completado
