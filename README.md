@@ -27,8 +27,6 @@ ______
 
 <br>
 
-[![Proyecto Actual](https://github-readme-stats.vercel.app/api/pin/?username=isinicolle&repo=isinicolle.github.io&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
-
 ______
 <h3>Visitante numero:</h3>  <br>
 <p> 
@@ -42,5 +40,10 @@ ______
 <p >
 <a href="https://www.linkedin.com/in/isis-zapata/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isis-zapata" height="30" width="40" /></a>
 </p>
+
+<br>
+
+______
+[![Proyecto Actual](https://github-readme-stats.vercel.app/api/pin/?username=isinicolle&repo=isinicolle.github.io&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
