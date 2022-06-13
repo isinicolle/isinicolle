@@ -3,7 +3,7 @@
 
 <div align="center">
 
-### <div><p style="font-size: 15px;font-family: 'Open Sans', sans-serif;"><a href="https://isinicolle.github.io/">Portafolio</a></p></div>
+### <div><p style="font-size: 15px;font-family: 'Open Sans', sans-serif;  background-color: rgb(92, 92, 132);"><a href="https://isinicolle.github.io/">Portafolio</a></p></div>
 
 <div><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200"></div>
 <h1>Bienvenid@ a mi perfil de GitHub</h1>
