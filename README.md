@@ -17,13 +17,15 @@ ______
 <br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isinicolle&layout=compact&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isinicolle&layout=compact&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
-[![Isis's github stats](https://github-readme-stats.vercel.app/api?username=isinicolle&count_private=true&show_icons=true&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Isis's github stats](https://github-readme-stats.vercel.app/api?username=isinicolle&count_private=true&show_icons=true&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
+
+[![Portafolio](https://github-readme-stats.vercel.app/api/pin/?username=isinicolle&repo=isinicolle.github.io&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 
 ______
 <h3>Visitante numero:</h3>  <br>
