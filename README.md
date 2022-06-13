@@ -1,8 +1,10 @@
 ## Holis <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
   
-<div align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200"></div>
 
-<h1 align="center">Bienvenid@ a mi perfil de GitHub</h1>
+<div aling="center">
+<div><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200"></div>
+
+<h1>Bienvenid@ a mi perfil de GitHub</h1>
 <br>
  
 
@@ -24,7 +26,7 @@ ______
 <br>
 
 ______
-<p align="center"> 
+<p> 
   Visitante numero:  <br>
   <img src="https://profile-counter.glitch.me/isinicolle/count.svg" />
   <br>
@@ -32,10 +34,10 @@ ______
 </p>
 
 <br>
-<h3 align="center">Contacta conmigo:</h3>
-<p align="center">
+<h3>Contacta conmigo:</h3>
+<p >
 <a href="https://www.linkedin.com/in/isis-zapata/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isis-zapata" height="30" width="40" /></a>
 </p>
-
+</div>
 
               
