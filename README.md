@@ -43,7 +43,4 @@ ______
 
 <br>
 
-______
-[![Proyecto Actual](https://github-readme-stats.vercel.app/api/pin/?username=isinicolle&repo=isinicolle.github.io&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 
