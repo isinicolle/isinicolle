@@ -32,7 +32,7 @@ ______
 </p>
 
 <br>
-<h3 align="center">Conectate conmigo:</h3>
+<h3 align="center">Contacta conmigo:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/isis-zapata/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isis-zapata" height="30" width="40" /></a>
 </p>
