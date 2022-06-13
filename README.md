@@ -26,8 +26,8 @@ ______
 <br>
 
 ______
+<h3>Visitante numero:</h3>  <br>
 <p> 
-  Visitante numero:  <br>
   <img src="https://profile-counter.glitch.me/isinicolle/count.svg" />
   <br>
 
