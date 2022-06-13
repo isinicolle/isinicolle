@@ -19,7 +19,7 @@ ______
 
 <br>
 
-[![Isis's github stats](https://github-readme-stats.vercel.app/api?username=isinicolle&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Isis's github stats](https://github-readme-stats.vercel.app/api?username=isinicolle&count_private=true&show_icons=true&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
