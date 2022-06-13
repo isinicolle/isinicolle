@@ -9,7 +9,7 @@
  
 
 #### Honduras 🗺
-<!--### <div><p align="center"><a href="https://isinicolle.github.io/Portfolio/">Check my Portfolio page</a></p></div>-->
+### <div><p><a href="https://isinicolle.github.io/">Portafolio</a></p></div>
 
 #### 👩‍💻 Estudiante de Ingenieria en Ciencias de la Computación (95/100) completado
 ______
@@ -25,7 +25,7 @@ ______
 
 <br>
 
-[![Portafolio](https://github-readme-stats.vercel.app/api/pin/?username=isinicolle&repo=isinicolle.github.io&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
+[![Proyecto Actual](https://github-readme-stats.vercel.app/api/pin/?username=isinicolle&repo=isinicolle.github.io&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 
 ______
 <h3>Visitante numero:</h3>  <br>
