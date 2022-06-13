@@ -32,20 +32,8 @@ ______
 </p>
 
 <br>
-
-<div align="center"> <strong>Contacta conmigo: </strong> <br>
- &nbsp;<a href="https://www.linkedin.com/in/isis-zapata/"><img src="images/linkedin-box-fill.png" width="20" height="20"></a></div>
-<br>
-<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="isis-zapata" data-version="v1">
- <a class="badge-base__link LI-simple-link" href="https://hn.linkedin.com/in/isis-zapata?trk=profile-badge">
-
-  By: Isis Zapata
- </a>
-</div>
-
-
-<h3 align="left">Conectate conmigo:</h3>
-<p align="left">
+<h3 align="center">Conectate conmigo:</h3>
+<p align="center">
 <a href="https://www.linkedin.com/in/isis-zapata/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isis-zapata" height="30" width="40" /></a>
 </p>
 
