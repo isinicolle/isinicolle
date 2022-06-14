@@ -32,12 +32,16 @@ ______
 </p>
 
 <br>
+  
 <h3>Contacta conmigo:</h3>
-<p >
+  
+<div class="row">
+  <div class="col" id="col-2">
 <a href="https://www.linkedin.com/in/isis-zapata/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isis-zapata" height="30" width="40" /></a> 
   
 <a href="https://www.instagram.com/isinicolle/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="isinicolle" height="30" width="40" /></a>
-</p>
+    </div>
+</div>
   
 
 <br>
