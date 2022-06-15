@@ -12,7 +12,7 @@
 
 #### Honduras 🗺
 
-#### 👩‍💻 Estudiante de Ingenieria en Ciencias de la Computación (95/100) completado
+#### 👩‍💻 Ingeniería en Ciencias de la Computación 
 
 ______
 
