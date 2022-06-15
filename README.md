@@ -1,4 +1,4 @@
-## Holis <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
+## Holis <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> gente bonita 
   
 
 <div align="center">
@@ -32,10 +32,15 @@ ______
 </p>
 
 <br>
+  
 <h3>Contacta conmigo:</h3>
-<p >
-<a href="https://www.linkedin.com/in/isis-zapata/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isis-zapata" height="30" width="40" /></a>
-</p>
+  
+<div>
+ <a href="https://discordapp.com/users/979528485901049927" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="isinicolle#1105" height="34" width="auto" /></a>  
+<a href="https://www.linkedin.com/in/isis-zapata/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isis-zapata" height="32" width="auto" /></a>  
+<a href="https://www.instagram.com/isinicolle/" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="isinicolle" height="33" width="auto" /></a>
+</div>
+  
 
 <br>
 
