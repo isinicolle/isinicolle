@@ -2,7 +2,8 @@
   ![](https://komarev.com/ghpvc/?username=isinicolle&color=ff69b4)
 
 <div align="center">
-  
+<img src="./src/img/banner perosnal.jpg">
+
 ### <div><p><a href="https://isinicolle.github.io/"><img src="./src/img/xoxo.svg" height="120" width="auto"></a></p></div>
   
 <div><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200"></div>
