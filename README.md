@@ -1,12 +1,12 @@
 ## <img src="./src/img/banner perosnal.jpg">
-  ![](https://komarev.com/ghpvc/?username=isinicolle&color=ff69b4) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> Saludos
+  ![](https://komarev.com/ghpvc/?username=isinicolle&color=ff69b4)  
 
 <div align="center">
 
 ### <div><p><a href="https://isinicolle.github.io/"><img src="./src/img/xoxo.svg" height="120" width="auto"></a></p></div>
   
 <div><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200"></div>
-<h1>Bienvenid@ a mi perfil de GitHub </h1>
+<h1>Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">, bienvenid@ a mi perfil de GitHub </h1>
 
 #### Honduras 🗺
 
