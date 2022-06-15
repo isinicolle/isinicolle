@@ -3,7 +3,7 @@
 
 <div align="center">
   
-### <div><p><a href="https://isinicolle.github.io/"><img src="./src/img/xoxo.svg" height="320" width="auto"></a></p></div>
+### <div><p><a href="https://isinicolle.github.io/"><img src="./src/img/xoxo.svg" height="120" width="auto"></a></p></div>
   
 <div><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200"></div>
 <h1>Bienvenid@ a mi perfil de GitHub</h1>
