@@ -15,11 +15,11 @@ ______
 <br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isinicolle&langs_count=10&layout=compact&theme=omni)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isinicolle&langs_count=10&layout=compact&theme=omni)
 
 <br>
 
-[![Isis's github stats](https://github-readme-stats.vercel.app/api?username=isinicolle&hide=contribs,issues&count_private=true&include_all_commits&show_icons=true&theme=omni)]
+![Isis's github stats](https://github-readme-stats.vercel.app/api?username=isinicolle&hide=contribs,issues&count_private=true&include_all_commits&show_icons=true&theme=omni)
 
 <br>
 
