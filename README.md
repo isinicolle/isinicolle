@@ -36,8 +36,8 @@ ______
 <h3>Contacta conmigo:</h3>
   
 <div>
-<a href="https://www.linkedin.com/in/isis-zapata/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isis-zapata" height="20" width="auto" /></a>   
-<a href="https://www.instagram.com/isinicolle/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="isinicolle" height="21" width="auto" /></a>
+<a href="https://www.linkedin.com/in/isis-zapata/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isis-zapata" height="32" width="auto" /></a>  
+<a href="https://www.instagram.com/isinicolle/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="isinicolle" height="33" width="auto" /></a>
 </div>
   
 
