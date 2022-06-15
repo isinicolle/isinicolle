@@ -1,4 +1,6 @@
 ## Holis <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> gente bonita 
+
+<div align="center"><img src="./src/img/banner perosnal.jpg"></div>
   ![](https://komarev.com/ghpvc/?username=isinicolle&color=ff69b4)
 
 <div align="center">
