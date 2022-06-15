@@ -1,15 +1,17 @@
-## Holis <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> gente bonita 
-  
+<h1>Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">, bienvenid@ a mi perfil de GitHub </h1>
+
+## <img src="./src/img/banner perosnal.jpg">
+  ![](https://komarev.com/ghpvc/?username=isinicolle&color=ff69b4)  
 
 <div align="center">
+
+### <div><p><a href="https://isinicolle.github.io/"><img src="./src/img/xoxo.svg" height="120" width="auto"></a></p></div>
+  
 <div><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200"></div>
-<h1>Bienvenid@ a mi perfil de GitHub</h1>
+<h1> 🦉 </h1>
 
-#### Honduras 🗺
 
-#### 👩‍💻 Estudiante de Ingenieria en Ciencias de la Computación (95/100) completado
 
-<!-- ### <div><p><a href="https://isinicolle.github.io/">Portafolio</a></p></div> -->
 ______
 
 <br>
@@ -24,14 +26,6 @@ ______
 <br>
 
 ______
-<h3>Visitante numero:</h3>  <br>
-<p> 
-  <img src="https://profile-counter.glitch.me/isinicolle/count.svg" />
-  <br>
-
-</p>
-
-<br>
   
 <h3>Contacta conmigo:</h3>
   
