@@ -21,7 +21,7 @@ ______
 
 <br>
 
-![Isis's github stats](https://github-readme-stats.vercel.app/api?username=isinicolle&hide=contribs,issues&count_private=true&include_all_commits&show_icons=true&theme=omni)
+![Isis's github stats](https://github-readme-stats.vercel.app/api?username=isinicolle&hide=contribs,issues&count_private=true&show_icons=true&theme=omni)
 
 <br>
 
