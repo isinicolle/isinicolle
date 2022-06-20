@@ -32,7 +32,7 @@ ______
 <div>
  <a href="https://discordapp.com/users/979528485901049927" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="isinicolle#1105" height="50" width="auto" /></a>  
 <a href="https://www.linkedin.com/in/isis-zapata/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isis-zapata" height="32" width="auto" /></a>  
-<a href="https://developers.google.com/profile/u/isinicolle" target="blank"><img align="right" src="http://2.bp.blogspot.com/-RD81t14hCnU/UL1aoZsMmDI/AAAAAAAACJQ/CrNTJZkQQNg/s1600/Google-Developers-Academy.png" alt="isinicolle" height="45" width="auto" /></a>  
+<!--<a href="https://developers.google.com/profile/u/isinicolle" target="blank"><img align="right" src="http://2.bp.blogspot.com/-RD81t14hCnU/UL1aoZsMmDI/AAAAAAAACJQ/CrNTJZkQQNg/s1600/Google-Developers-Academy.png" alt="isinicolle" height="45" width="auto" /></a> -->
 <a href="https://www.instagram.com/isinicolle/" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="isinicolle" height="33" width="auto" /></a>
 </div>
   
