@@ -20,7 +20,7 @@ ______
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isinicolle&langs_count=10&layout=compact&theme=omni&custom_title="Lenguajes mas usados")
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isinicolle&langs_count=10&layout=compact&theme=omni&custom_title=Lenguajes+mas+usados)
 
 <br>
 
