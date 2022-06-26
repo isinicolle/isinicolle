@@ -30,7 +30,7 @@ ______
 
 ______
   
-<h3>Contacta conmigo:</h3>
+<h3>Contact me: </h3>
   
 <div>
  <a href="https://discordapp.com/users/979528485901049927" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="isinicolle#1105" height="50" width="auto" /></a>  
