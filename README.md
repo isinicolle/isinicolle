@@ -15,8 +15,8 @@
 ______
 <div align="justify">
 <h4>💪🏻I'm currently working on different projects to learn more and have more experience! ✨</h4>
-<h4>🌱I'm currently learning web development and other programming languages, I love studying a lot! ✨</h4>
-<h4>📫How to reach me: isinicolle@gmail.com 📧</h4>
+<h4>🌱I'm currently learning web development and other programming languages, I love studying a lot! </h4>
+<h4>🎨Fun facts: Exercise and taking courses is my passion. I feel like I can't be one thing. ✨</h4>
 </div>
 <br>
 
