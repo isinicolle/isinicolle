@@ -5,7 +5,7 @@
 
 <div align="center">
 
-### <div><p><a href="https://isinicolle.github.io/"><img src="./src/img/xoxo.svg" height="120" width="auto" alt="Portafolio de Isis Zapata"></a></p></div>
+### <div><p><a href="https://isinicolle.github.io/"><img src="./src/img/portfolio.svg" height="120" width="auto" alt="Portafolio de Isis Zapata"></a></p></div>
   
 <div><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200"></div>
 <h1> 🦉 </h1>
