@@ -13,9 +13,11 @@
 
 
 ______
-
+<div align="justify">
+<h4>✨I'm currently working on different projects to learn more and have more experience!</h4>
+<h4>✨I'm currently learning web development and other programming languages, I love studying a lot!</h4>
+</div>
 <br>
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isinicolle&langs_count=10&layout=compact&theme=omni)
 
