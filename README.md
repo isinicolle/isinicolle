@@ -14,9 +14,9 @@
 
 ______
 <div align="justify">
-<h4>💪🏻I'm currently working on different projects to learn more and have more experience! ✨</h4>
-<h4>🌱I'm currently learning web development and other programming languages, I love studying a lot! </h4>
-<h4>🎨Fun facts: Exercise and taking courses is my passion. I feel like I can't be one thing. ✨</h4>
+<h6>💪🏻I'm currently working on different projects to learn more and have more experience! ✨</h6>
+<h6>🌱I'm currently learning web development and other programming languages, I love studying a lot! </h6>
+<h6>🎨Fun facts: 🏃🏻‍♀️ and taking courses is my passion. I feel like I can't be one thing. I like to learn from everything! ✨</h6>
 </div>
 <br>
 
