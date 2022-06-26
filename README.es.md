@@ -20,11 +20,11 @@ ______
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isinicolle&langs_count=10&layout=compact&theme=omni&custom_title=Lenguajes+mas+usados)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isinicolle&langs_count=10&layout=compact&theme=omni&custom_title=Lenguajes+m%c3%a1s+usados)
 
 <br>
 
-![Isis's github stats](https://github-readme-stats.vercel.app/api?username=isinicolle&hide=contribs,issues&count_private=true&show_icons=true&theme=omni)
+![Isis's github stats](https://github-readme-stats.vercel.app/api?username=isinicolle&hide=contribs,issues&count_private=true&show_icons=true&theme=omni&custom_title=Estad%c3%adsticas+de+Isis+Zapata+en+GitHub)
 
 <br>
 
