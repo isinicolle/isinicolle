@@ -1,10 +1,10 @@
-<h1>Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">, ¡bienvenid@ a mi perfil de GitHub!</h1>
-
 <div class="Lenguajes">
 <p>
-  <a href="https://github.com/isinicolle/isinicolle/blob/main/README.md"><img src=https://img.shields.io/badge/Lang-EN-40B0C2 alt="Ver perfil en Ingles"></a>
+  <a href="https://github.com/isinicolle/isinicolle/blob/main/README.md"><img src=https://img.shields.io/badge/Lang-EN-40B0C2 alt="View profile English"></a>
+  <a href="https://github.com/isinicolle/isinicolle/blob/main/README.es.md"><img src=https://img.shields.io/badge/Lang-ES-801172 alt="View profile Spanish"></a>
 </p>
 </div>
+<h1>Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">, ¡bienvenid@ a mi perfil de GitHub!</h1>
 
 ## <img src="./src/img/banner personal.jpg" alt="Ingeniera Isis Nicolle Zapata Florentino">
   ![](https://komarev.com/ghpvc/?username=isinicolle&color=ff55aa&label=Visitas+del+perfil)
