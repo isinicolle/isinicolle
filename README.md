@@ -16,14 +16,14 @@
 <div><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200"></div>
 <h1> 🦉 </h1>
 
-<div>
+<div class="social media">
 <a href="https://www.linkedin.com/in/isis-zapata/" target="blank">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
+      <img align="left" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 
-    <a href="https://www.instagram.com/isinicolle/" target="blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-    </a>
+  <a href="https://www.instagram.com/isinicolle/" target="blank">
+      <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
 </div>
 
 <div align="justify">
