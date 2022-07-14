@@ -17,9 +17,7 @@
 <h1> 🦉 </h1>
 
 <div align="justify">
-<h6>🔭¡Actualmente estoy trabajando en diferentes proyectos para aprender más y tener experiencia! 🏋🏻</h6>
-<h6>🌱Actualmente estoy aprendiendo desarrollo web y otros lenguajes de programación, ¡me gusta mucho la programación! ✨</h6>
-<h6>🤩Datos curiosos: Hacer ejercicio y tomar cursos es mi pasión. Me gusta aprender de todo, ¡me encanta estudiar mucho! 💓 </h6>
+<h6>🔭¡Actualmente estoy trabajando en diferentes proyectos para aprender más y tener experiencia! 🏋Actualmente estoy aprendiendo desarrollo web y otros lenguajes de programación, ¡me gusta mucho programar! ✨Datos curiosos: Hacer ejercicio y tomar cursos es mi pasión. Me gusta aprender de todo, ¡me encanta estudiar mucho! 💓 </h6>
 </div>
 
 ______
