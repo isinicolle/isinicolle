@@ -15,7 +15,11 @@
   
 <div><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200"></div>
 <h1> 🦉 </h1>
-
+<div>
+<a href="https://www.linkedin.com/in/isis-zapata/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+</div>
 <div align="justify">
 <h6>🔭I'm currently working on different projects to learn more and have experience! 🏋🏻‍♀.Currently learning web development and other languages, I really like programming!. Fun facts: Exercise and taking courses is my passion. I like to learn from everything, I love studying a lot!💓. Being an IT professional requires being self-taught and studying daily.</h6>
 </div>
@@ -35,14 +39,6 @@ ______
 ______
   
 <h3>Contact me: </h3>
-  
-<div>
-<a href="https://www.linkedin.com/in/isis-zapata/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-</div>
-  
 
-<br>
 
 
