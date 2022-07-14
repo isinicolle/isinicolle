@@ -34,15 +34,17 @@ ______
 
 ______
   
-<h3>Contactame: </h3>
-  
-<div>
- <a href="https://discordapp.com/users/979528485901049927" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="isinicolle#1105" height="50" width="auto" /></a>  
-<a href="https://www.linkedin.com/in/isis-zapata/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isis-zapata" height="32" width="auto" /></a>  
-<a href="https://www.instagram.com/isinicolle/" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="isinicolle" height="33" width="auto" /></a>
+<div class="social media">
+  <a href="https://www.instagram.com/isinicolle/" target="blank">
+      <img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+
+<a href="https://www.linkedin.com/in/isis-zapata/" target="blank">
+      <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+
+ <a href="https://discordapp.com/users/979528485901049927" target="blank">
+      <img align="right" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  </a>
 </div>
-  
-
-<br>
-
 
