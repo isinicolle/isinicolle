@@ -17,9 +17,7 @@
 <h1> 🦉 </h1>
 
 <div align="justify">
-<h6>🔭I'm currently working on different projects to learn more and have experience! 🏋🏻‍♀️</h6>
-<h6>🌱I'm currently learning web development and other programming languages, I really like programming! ✨</h6>
-<h6>🤩Fun facts: Exercise and taking courses is my passion. I like to learn from everything, I love studying a lot!💓 </h6>
+<h6>🔭I'm currently working on different projects to learn more and have experience! 🏋🏻‍♀. I'm currently learning web development and other programming languages, I really like programming!. Fun facts: Exercise and taking courses is my passion. I like to learn from everything, I love studying a lot!💓/. Being an IT professional requires being self-taught and studying daily.</h6>
 </div>
 
 ______
