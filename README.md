@@ -46,13 +46,6 @@ ______
  <a href="https://discordapp.com/users/979528485901049927" target="blank">
       <img align="right" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
-    
- <br><br>
-    
- <a href="mailto:isinicollee@gmail.com" target="blank">
-      <img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Instagram Badge"/>
- </a>
-    
 </div>
 
 
