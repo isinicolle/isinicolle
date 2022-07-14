@@ -34,7 +34,7 @@ ______
 
 ______
   
-<h3>Contact me: </h3>
+<h6>Contact me</h6>
   
   <div class="social media">
   <a href="https://www.instagram.com/isinicolle/" target="blank">
