@@ -24,6 +24,10 @@
   <a href="https://www.instagram.com/isinicolle/" target="blank">
       <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
+
+ <a href="https://discordapp.com/users/979528485901049927" target="blank">
+      <img align="right" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  </a>
 </div>
 
 <div align="justify">
