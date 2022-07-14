@@ -34,8 +34,6 @@ ______
 
 ______
   
-<h6>Contact me</h6>
-  
   <div class="social media">
   <a href="https://www.instagram.com/isinicolle/" target="blank">
       <img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
