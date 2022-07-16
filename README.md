@@ -11,7 +11,7 @@
 
 <div align="center">
 
-### <div><p><a href="https://isinicolle.github.io/Mini-Portfolio-Isis-Zapata/"><img src="./src/img/portfolio.svg" height="120" width="auto" alt="Isis Zapata's Portfolio"></a></p></div>
+### <div><p><a href="https://isinicolle.github.io/Mini-Portfolio-Isis-Zapata/"><img src="./src/img/portfolio.svg" height="120" width="auto" alt="Isis Zapata's Portfolio" target="_blank"></a></p></div>
   
 <div><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200"></div>
 <h1> 🦉 </h1>
