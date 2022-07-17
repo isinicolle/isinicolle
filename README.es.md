@@ -58,4 +58,6 @@ ______
 
 ______
   
-  
+
+<img src="https://activity-graph.herokuapp.com/graph?username=isinicolle&theme=monokai&area=true&hide_border=true&custom_title=Grafico%20de%20mis%20Contribuciones" width="100%"/>
+
