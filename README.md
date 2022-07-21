@@ -20,7 +20,7 @@
 
 
 <div align="justify">
-<h6>🔭I'm currently working on different projects to learn more and have experience! 🏋🏻‍♀.Currently learning web development and other languages, I really like programming!. Fun facts: Exercise and taking courses is my passion. I like to learn from everything, I love studying a lot!💓. Being an IT professional requires being self-taught and studying daily.</h6>
+<h6>🔭 I am currently working on different personal projects to improve my skills on a daily basis🏋🏻. I am a web, mobile and desktop designer/developer. Simply put, I'm a full stack developer girl. I love studying a lot 💓! Being an IT professional requires being self-taught and studying daily.</h6>
 </div>
 
  <div class="social media">
