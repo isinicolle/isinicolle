@@ -20,7 +20,7 @@
 
 
 <div align="justify">
-<h6>🔭 I am currently working on different personal projects to improve my skills on a daily basis🏋🏻. I am a web, mobile and desktop designer/developer. Simply put, I'm a full stack developer girl. I love studying a lot 💓! Being an IT professional requires being self-taught and studying daily.</h6>
+<h6>🔭 I am currently working on different personal projects to improve my skills on a daily basis🏋🏻. I'm designer/developer web, mobile and desktop. Simply put, I'm a full stack developer girl. I love studying a lot 💓! Being an IT professional requires being self-taught and studying daily.</h6>
 </div>
 
  <div class="social media">
