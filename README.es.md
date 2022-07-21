@@ -19,7 +19,7 @@
  [Resumen de mi perfil de GitHub](https://profile-summary-for-github.com/user/isinicolle)
   
 <div align="justify">
-<h6>🔭¡Actualmente estoy trabajando en diferentes proyectos para aprender más y tener experiencia! 🏋Actualmente estoy aprendiendo desarrollo web y otros lenguajes de programación, ¡me gusta mucho programar! ✨Datos curiosos: Hacer ejercicio y tomar cursos es mi pasión. Me gusta aprender de todo, ¡me encanta estudiar mucho! 💓. Ser un profesional de TI requiere ser autodidacta y estudiar diariamente. </h6>
+<h6>🔭 Actualmente estoy trabajando en diferentes proyectos personales para mejorar mis habilidades a diario🏋🏻. Soy diseñador/desarrollador web, móvil y de escritorio. En pocas palabras soy full stack developer. ¡Me encanta estudiar mucho 💓! Ser un profesional de TI requiere ser autodidacta y estudiar diariamente. </h6>
 </div>
 
  <div class="social media">
