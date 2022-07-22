@@ -24,20 +24,11 @@
 </div>
 
  <div class="social media">
-  <a href="https://www.instagram.com/isinicolle/" target="blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
 <a href="https://www.linkedin.com/in/isis-zapata/" target="blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  <a href="https://discordapp.com/users/979528485901049927" target="blank">
       <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
-  </a>
-    <a href="https://www.facebook.com/isinicolle" target="blank">
-      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
-<a href="https://twitter.com/isinicollee" target="blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 <a href="mailto:isinicollee@gmail.com?Subject=Interesado%20en%20el%20tu%20Perfil" target="blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
