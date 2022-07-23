@@ -20,7 +20,7 @@
 
 
 <div align="justify">
-<h6>🔭 I am currently working on different personal projects to improve my skills on a daily basis🏋🏻. I'm designer/developer web, mobile and desktop. Simply put, I'm a full stack developer girl. I love studying a lot 💓! Being an IT professional requires being self-taught and studying daily.</h6>
+
 </div>
 
  <div class="social media">
@@ -47,7 +47,5 @@ ______
 
 <br>
 
-______
-  
-<img src="https://activity-graph.herokuapp.com/graph?username=isinicolle&theme=monokai&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" width="100%"/>
+
 
