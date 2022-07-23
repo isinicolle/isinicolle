@@ -17,22 +17,8 @@
 <h1> 🦉 </h1>
   
  [Resumen de mi perfil de GitHub](https://profile-summary-for-github.com/user/isinicolle)
-  
-<div align="justify">
-<h6>🔭 Actualmente estoy trabajando en diferentes proyectos personales para mejorar mis habilidades a diario🏋🏻. Soy diseñador/desarrollador web, móvil y de escritorio. En pocas palabras soy full stack developer. ¡Me encanta estudiar mucho 💓! Ser un profesional de TI requiere ser autodidacta y estudiar diariamente. </h6>
-</div>
 
- <div class="social media">
-<a href="https://www.linkedin.com/in/isis-zapata/" target="blank">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
- <a href="https://discordapp.com/users/979528485901049927" target="blank">
-      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
-  </a>
-<a href="mailto:isinicollee@gmail.com?Subject=Interesado%20en%20el%20tu%20Perfil" target="blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-</div>
+
  
  
 ______
@@ -48,7 +34,14 @@ ______
 <br>
 
 ______
-  
-
-<img src="https://activity-graph.herokuapp.com/graph?username=isinicolle&theme=monokai&area=true&hide_border=true&custom_title=Grafico%20de%20mis%20Contribuciones" width="100%"/>
-
+   <div class="social media">
+<a href="https://www.linkedin.com/in/isis-zapata/" target="blank">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+ <a href="https://discordapp.com/users/979528485901049927" target="blank">
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  </a>
+<a href="mailto:isinicollee@gmail.com?Subject=Interesado%20en%20el%20tu%20Perfil" target="blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</div>
