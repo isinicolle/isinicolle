@@ -29,7 +29,7 @@ ______
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isinicolle&langs_count=10&layout=compact&theme=omni)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isinicolle&langs_count=12&layout=compact&theme=omni)
 
 <br>
 
