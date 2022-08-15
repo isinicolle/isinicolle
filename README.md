@@ -17,6 +17,8 @@
 <h1> 🦉 </h1>
 
  [GitHub Profile Summary](https://profile-summary-for-github.com/user/isinicolle)
+ 
+<a href="https://linkedin.com/in/isis-zapata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bryanmartinez27" height="30" width="40" /></a>
 
 
 <div align="justify">
