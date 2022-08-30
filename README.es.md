@@ -6,7 +6,7 @@
 </div>
 <h1>Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">, ¡bienvenid@ a mi perfil de GitHub!</h1>
 
-## <img src="./src/img/banner personal.jpg" alt="Ingeniera Isis Nicolle Zapata Florentino">
+## <img src="./src/img/banner-es.png" alt="Ingeniera Isis Nicolle Zapata Florentino">
   ![](https://komarev.com/ghpvc/?username=isinicolle&color=ff55aa&label=Visitas+del+perfil)
 
 <div align="center">
